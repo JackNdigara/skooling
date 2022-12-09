@@ -2,7 +2,7 @@
 
 An Online Learning Management System Web Application.
 
-[Live Website](http://skooling.vercel.app/) 
+[Live Website](http://skooling.vercel.app/) [Backend repo](https://github.com/kahoragachau/Skoolie-backend)
 
 ## Features
 
