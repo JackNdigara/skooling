@@ -1,12 +1,12 @@
-# Edu Buddies
+# skooling
 
 An Online Learning Management System Web Application.
 
-[Live Website](https://edu-buddies.netlify.app/) | [Backend Server](https://github.com/nizamseu/edubuddies-Backend)
+[Live Website](https:///) | [Backend Server](https://github.com/nizamseu/edubuddies-Backend)
 
 ## Features
 
-- Edu Buddies is an Online Learning Management System web application build with MERN stack.
+- Skooling is an Online Learning Management System web application build with MERN stack.
 - Basically this project has three panel structure based features which are Student, Instructor and Admin panel features.
 - First of all in this web application students can choose their learning courses by reading the course information according to their choices.
 - Students have to sign up and log in for enroll the courses to get the full video tutorial and quiz access of any course.
